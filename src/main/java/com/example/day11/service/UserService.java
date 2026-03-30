@@ -1,6 +1,7 @@
 package com.example.day11.service;
 
 import java.util.List;
+import java.util.Optional;
 
 import org.springframework.stereotype.Service;
 
@@ -17,6 +18,10 @@ public class UserService {
 
     public List<User> getAllUsers() {
         return repository.findAll();
+    }
+
+    public Optional<User> getUserById(int id) {
+        return repository.findById(id);
     }
 
     public User createUser(String email, String password) {

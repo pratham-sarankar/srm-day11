@@ -148,3 +148,162 @@ INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLI
 2026-03-25 11:17:08.494769+05:30 jdbc[3]: exception
 org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
 INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-25 16:59:17.899834+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-25 17:00:53.948529+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-25 17:00:55.690485+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-25 17:01:05.508761+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-25 17:01:07.180466+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-25 17:01:13.877328+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-25 17:01:15.951688+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 10:26:08.714520+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 10:43:20.773903+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 10:43:40.150429+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 10:43:47.355312+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 10:43:49.173829+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 10:45:19.295232+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 10:45:47.479037+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 10:45:49.419745+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 10:46:26.902236+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 10:46:30.705734+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 10:46:32.392159+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 10:47:41.747158+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 10:47:55.597205+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 10:48:29.655879+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 10:48:32.309017+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 10:54:05.980332+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 10:54:30.895139+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 10:54:33.016068+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 10:55:37.405275+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 10:55:39.087599+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 10:56:50.469468+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 10:57:10.467600+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 10:57:12.124541+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 12:05:16.309014+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 12:05:27.158683+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 12:05:28.805655+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 12:05:57.253872+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 12:06:29.246180+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 12:07:18.466479+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 12:10:01.685188+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 12:10:35.734687+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 12:10:45.530303+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 12:10:47.192650+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 12:11:26.243573+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 12:11:27.900515+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 12:12:13.393455+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 12:12:36.301531+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 12:12:40.391102+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 12:13:38.749108+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 12:42:22.858189+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 12:45:04.149023+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 12:46:20.644572+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 12:46:22.487048+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 12:46:24.147759+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-26 12:47:05.208837+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
+2026-03-30 10:09:23.812169+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRIPTION CHARACTER VARYING(255)": "U&'The Grudge is a 2020 American psychological supernatural horror film written ... (618)"; SQL statement:
+INSERT INTO "PUBLIC"."MOVIES_COPY_3_0"("ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE") OVERRIDING SYSTEM VALUE SELECT "ID", "DESCRIPTION", "POSTER_URL", "PUBLISHED_YEAR", "TITLE" FROM "PUBLIC"."MOVIES" [22001-240]
