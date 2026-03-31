@@ -6,7 +6,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.example.day11.util.JwtService;
 import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestBody;
 
 @RestController
 public class AuthController {
