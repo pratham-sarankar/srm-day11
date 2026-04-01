@@ -7,9 +7,13 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.example.day11.dto.UserCreateRequest;
+import com.example.day11.dto.UserLoginRequest;
 import com.example.day11.model.User;
 import com.example.day11.service.UserService;
 import com.example.day11.util.JwtService;
+
+import jakarta.validation.Valid;
+
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -30,14 +34,14 @@ public class AuthController {
     }
 
     @PostMapping("/login")
-    public String login(@RequestParam String username,
-            @RequestParam String password) {
+    public String login(@Valid @RequestBody UserLoginRequest request) {
+        String email = request.getEmail();
+        String password = request.getPassword();
 
-        // Normally validate from DB
-        if (username.equals("user") && password.equals("password")) {
-            return jwtService.generateToken(username);
+        User user = service.authenticate(email, password);
+        if (user == null) {
+            throw new RuntimeException("Invalid credentials");
         }
-
-        throw new RuntimeException("Invalid credentials");
+        return jwtService.generateToken(email);
     }
 }
