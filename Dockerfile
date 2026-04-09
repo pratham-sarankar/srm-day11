@@ -1,8 +1,11 @@
-FROM maven:3.9.9-eclipse-temurin-17
+FROM ubuntu:latest
 
 WORKDIR /app
 
 COPY . .
+
+RUN apt update 
+RUN apt install -y openjdk-17-jdk maven 
 
 RUN mvn clean package -DskipTests
 
